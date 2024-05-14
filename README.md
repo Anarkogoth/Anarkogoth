@@ -1,13 +1,13 @@
 ### Oioiê, boas vindas ao meu perfil! ✨
 
-Meu nome é Ashley Mateus.
+Meu nome é _**Ashley Mateus**_.
 
-### Estou...
+### **Estou...**
 
-* Estudando na Alura;
-* Me desenvolvendo na linguagem <b>JavaScript;
-* E utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
+* Estudando na _**Alura**_;
+* Me desenvolvendo na _linguagem **JavaScript**_;
+* E utilizo esse espaço para minha organização e compartilhamento dos _**meus projetos desenvolvidos**_.
 
 
-### Você pode entrar em contato comigo em... 📫
-* 00001107523588sp@al.educacao.sp.gov.br
+### **Você pode entrar em contato comigo em...** 📫
+* _00001107523588sp@al.educacao.sp.gov.br_
